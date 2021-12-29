@@ -1,4 +1,6 @@
-﻿namespace SalesWebMvc.Models
+﻿using SalesWebMvc.Models.ViewModels;
+
+namespace SalesWebMvc.Models
 {
     public class Departament
     {
